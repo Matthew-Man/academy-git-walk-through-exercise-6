@@ -1,0 +1,1 @@
+This repository is for the Academy Mark - Week 1 exercise looking at git and GitHub
